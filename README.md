@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 📊 Currently, I am enrolled in Udemy's certification course titled "The Data Analyst Course: Complete Data Analyst Bootcamp 2023", while also building my professional portfolio website. On my website, I am aiming to start off with 4 projects, each focusing on Exploratory Data Analysis, Data Cleaning, Data Visualization, and Sentiment Analysis.
 
-🎓 I am also planning on returning to school to obtain a masters degree in Data Analytics. 
+🎓 I am planning on applying to graduate school to obtain a masters degree in Data Analytics. 
 
 ✨ I am always open to chat about new opportunities, particularly in Financial Technology (Fintech), User Experience (UX) Research, Analytics and Design, and Data Visualization.
